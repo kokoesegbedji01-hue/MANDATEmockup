@@ -1,0 +1,9 @@
+{
+  "name": "mandate-prototype",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Browser prototype for deal workflows and reproducible quantitative underwriting demonstrations",
+  "scripts": {
+    "test": "node --test tests/*.test.js"
+  }
+}
